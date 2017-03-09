@@ -24,7 +24,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 ## Deploying to GitHub Pages
 
-Run `ng github-pages:deploy` to deploy to GitHub Pages.
+https://klinkow.github.io/minesweeper/
 
 ## Further help
 
